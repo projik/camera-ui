@@ -1,7 +1,7 @@
 Package.describe({
     name: 'supaseca:camera-ui',
-    version: '0.0.3',
-    summary: 'Take photos with UI one function call on desktop and mobile. Choose between camera to photoLibrary.',
+    version: '0.0.5',
+    summary: 'Updated for Meteor 1.4. Take photos with UI on desktop and mobile with camera or photo roll.',
     git: 'https://github.com/projik/camera-ui',
     documentation: 'README.md'
 });
