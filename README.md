@@ -1,6 +1,6 @@
 # Meteor Camera UI Package
 
-Add it to your [Meteor](http://meteor.com) app with `meteor add supaseca:camera-ui`. This package is mobile UI expanded version of [supaseca:meteor-camera](https://atmospherejs.com/supaseca/meteor-camera) package, updated for Meteor 1.4.
+Add it to your [Meteor](http://meteor.com) app with `meteor add supaseca:camera-ui`. This package is mobile UI expanded version of [supaseca:camera](https://atmospherejs.com/supaseca/meteor-camera) package, updated for Meteor 1.4.
 
 There are only four methods in this package :
 
