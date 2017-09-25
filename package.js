@@ -7,7 +7,7 @@ Package.describe({
 });
 
 Cordova.depends({
-    "cordova-plugin-actionsheet": "2.3.1",
+    "cordova-plugin-actionsheet": "2.3.3",
     "org.apache.cordova.device": "1.1.3"
 });
 
